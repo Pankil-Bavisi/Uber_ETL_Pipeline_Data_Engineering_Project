@@ -46,7 +46,7 @@
   <h2>Data Model</h2>
   <br>
     <a href="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/architecture.jpg">
-      <img id="architecture" src="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/Uber%20Data%20Model.jpeg"></img>
+      <img id="architecture" src="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/Uber%20Data%20Model.jpeg" style="max-width:100%;"></img>
     </a>
 
   <h2>End of Project</h2>

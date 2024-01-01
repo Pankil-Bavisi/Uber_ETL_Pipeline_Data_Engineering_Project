@@ -21,7 +21,7 @@
       <li>BigQuery</li>
       <li>Looker Studio</li>
     </ol>
-  <p>"Modern Data Pipeline Tools" <a href="https://www.mage.ai/"> https://www.mage.ai/ </a>
+  <p>"Modern Data Pipeline Tool - " <a href="https://www.mage.ai/"> https://www.mage.ai/ </a>
   </p>
   
     

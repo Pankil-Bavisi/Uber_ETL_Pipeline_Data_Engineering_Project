@@ -14,12 +14,15 @@
     <ul>
       <li>Programming Language - Python</li>
     </ul>
+  <p>Google Cloud Platform Tools</p>
     <ol>
       <li>Google Storage</li>
       <li>Compute Instance</li>
       <li>BigQuery</li>
       <li>Looker Studio</li>
     </ol>
+  <p>"Modern Data Pipeline Tools" <a href="https://www.mage.ai/"> https://www.mage.ai/ </a>
+  </p>
   
     
 </html>

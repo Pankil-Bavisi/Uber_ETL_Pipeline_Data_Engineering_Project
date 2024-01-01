@@ -6,11 +6,11 @@
   <br>
   <p dir="auto" style="margin-top: 0px; text-size: 50px;">The Vision of this project is to perform data analytics operations on "Uber Data" using various tools and technologies, with having GCP Storage, Compute Instance, 
     Mage Data Pipeline Tool, Google BigQuery, and Looker Studio.
-  Here is the complete flow of the project where you can get thorough guidance on the implementation and all the required resources where you will kick off your data engineering journey!
+  <p>Here is the complete flow of the project where you can get thorough guidance on the implementation and all the required resources where you will kick off your data engineering journey!</p>
   <h2>Architecture:</h2>
   <br>
     <a href="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/architecture.jpg">
-      <img id="architecture" src="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/architecture.jpg"> </img>
+      <img id="architecture" src="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/architecture.jpg" dir="auto" style="margin-top: 0px; text-size: 50px;"> </img>
     </a>
     
   <h2>Technnology Used</h2>

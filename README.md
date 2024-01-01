@@ -49,9 +49,9 @@
       <img id="architecture" src="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/Uber%20Data%20Model.jpeg"></img>
     </a>
 
-  <h2>End of Project</h2>
-  <br>
-  <p>Never lose faith | Never Give Up | Happy Learning</p>
+  <h2 tabindex="-1" dir="auto">End of Project</h2>
+<!--   <br> -->
+  <p dir="auto">Never lose faith | Never Give Up | Happy Learning</p>
   
 </html>
 

@@ -6,5 +6,7 @@
     Mage Data Pipeline Tool, Google BigQuery, and Looker Studio.
   <h1>Architecture:</h1>
   <br>
-    <img id=architecture href="D:\ML\Projects\Data Engineer\Uber Data Pipeline\architecture.jpg"> </img>
+    <a href="/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/architecture.jpg">
+      <img id="architecture" src="D:\ML\Projects\Data Engineer\Uber Data Pipeline\architecture.jpg"> </img>
+    </a>
 </html>

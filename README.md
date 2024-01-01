@@ -41,7 +41,7 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
   <h2>Data Model</h2>
   <br>
     <a href="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/architecture.jpg">
-      <img id="architecture" src="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/Uber%20Data%20Model.jpeg">https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/Uber%20Data%20Model.jpeg</img>
+      <img id="architecture" src="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/Uber%20Data%20Model.jpeg"></img>
     </a>
 </html>
 

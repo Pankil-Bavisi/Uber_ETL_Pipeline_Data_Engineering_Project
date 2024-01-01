@@ -5,7 +5,7 @@
     Introduction:
   </h2>
   <br style="display: block; margin:10px 0; content=''; ">
-  <p style="margin-top: 0px; text-size: 50px;">The Vision of this project is to perform data analytics operations on "Uber Data" using various tools and technologies, with having GCP Storage, Compute Instance, 
+  <p style="margin-top: 0px; text-size: 50px;" dir="auto">The Vision of this project is to perform data analytics operations on "Uber Data" using various tools and technologies, with having GCP Storage, Compute Instance, 
     Mage Data Pipeline Tool, Google BigQuery, and Looker Studio.
   <p>Here is the complete flow of the project where you can get thorough guidance on the implementation and all the required resources where you will kick off your data engineering journey!</p>
   <h2>Architecture:</h2>
@@ -46,7 +46,7 @@
   <h2>Data Model</h2>
   <br>
     <a href="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/architecture.jpg">
-      <img id="architecture" src="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/Uber%20Data%20Model.jpeg" style="max-width:100%;"></img>
+      <img id="architecture" src="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/Uber%20Data%20Model.jpeg"></img>
     </a>
 
   <h2>End of Project</h2>

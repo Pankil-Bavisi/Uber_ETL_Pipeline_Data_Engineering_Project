@@ -7,6 +7,7 @@
   <h1>Architecture:</h1>
   <br>
     <a href="/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/architecture.jpg">
-      <img id="architecture" src="D:\ML\Projects\Data Engineer\Uber Data Pipeline\architecture.jpg"> </img>
+      <img id="architecture" src="/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/architecture.jpg"> </img>
     </a>
 </html>
+<!-- /Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/architecture.jpg -->

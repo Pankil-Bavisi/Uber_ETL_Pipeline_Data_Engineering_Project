@@ -4,8 +4,8 @@
 <!--     tabindex="-1"><a aria-hidden="true" -->
     Introduction:
   </h2>
-  <br stype="display: block; margin:10px 0">
-  <p style="margin-top: 30px; text-size: 50px;">The Vision of this project is to perform data analytics operations on "Uber Data" using various tools and technologies, with having GCP Storage, Compute Instance, 
+  <br style="display: block; margin:10px 0">
+  <p style="margin-top: 0px; text-size: 50px;">The Vision of this project is to perform data analytics operations on "Uber Data" using various tools and technologies, with having GCP Storage, Compute Instance, 
     Mage Data Pipeline Tool, Google BigQuery, and Looker Studio.
   <p>Here is the complete flow of the project where you can get thorough guidance on the implementation and all the required resources where you will kick off your data engineering journey!</p>
   <h2>Architecture:</h2>

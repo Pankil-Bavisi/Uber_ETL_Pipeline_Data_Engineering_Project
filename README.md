@@ -4,7 +4,7 @@
     Introduction:
   </h2>
   <br>
-  <p style="margin-top: 0px; text-size: 50px;">The Vision of this project is to perform data analytics operations on "Uber Data" using various tools and technologies, with having GCP Storage, Compute Instance, 
+  <p dir="auto" style="margin-top: 0px; text-size: 50px;">The Vision of this project is to perform data analytics operations on "Uber Data" using various tools and technologies, with having GCP Storage, Compute Instance, 
     Mage Data Pipeline Tool, Google BigQuery, and Looker Studio.
   Here is the complete flow of the project where you can get thorough guidance on the implementation and all the required resources where you will kick off your data engineering journey!
   <h2>Architecture:</h2>

@@ -45,7 +45,7 @@
   </p>
   
   <h2>Data Model</h2>
-  <p dir="auto">
+  <p>
     <a href="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/architecture.jpg">
       <img id="architecture" src="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/Uber%20Data%20Model.jpeg"></img>
     </a>

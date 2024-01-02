@@ -19,7 +19,6 @@
   </p>
   
   <h2>Technnology Used</h2>
-  <p dir="auto">
       <ul>
         <li>Programming Language - Python</li>
       </ul>
@@ -32,7 +31,6 @@
       </ol>
     <p>Modern Data Pipeline Tool - <a href="https://www.mage.ai/"> https://www.mage.ai/ </a></p>
     <p>Contribute to this open source project - <a href="https://github.com/mage-ai/mage-ai">https://github.com/mage-ai/mage-ai</a></p>
-  </p>
   
   <h2>Dataset Used</h2>
   <p dir="auto">

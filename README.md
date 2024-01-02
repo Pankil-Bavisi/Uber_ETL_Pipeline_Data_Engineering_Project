@@ -38,7 +38,7 @@
     <p>Here is the dataset used in the video - <a href="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/data/uber_data.csv">https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/data/uber_data.csv</a></p>
   
     <p>More info about the dataset can be found here:</p>
-    <ol dir="auto">
+    <ol>
       <li>Website : <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page</a></li>
       <li>Data Dictionary : <a href="https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf">https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf</a></li>
     </ol>

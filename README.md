@@ -36,11 +36,10 @@
   
   <h2>Dataset Used</h2>
   <p dir="auto">
-    <p>TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
-    </p>
+    <p>TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.</p>
     <p>Here is the dataset used in the video - <a href="https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/data/uber_data.csv">https://github.com/Pankil-Bavisi/Uber_ETL_Pipeline_Data_Engineering_Project/blob/master/data/uber_data.csv</a></p>
   
-    <p dir="auto">More info about dataset can be found here:</p>
+    <p>More info about dataset can be found here:</p>
   
     <ol>
       <li>Website : <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page</a></li>
